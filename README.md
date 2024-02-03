@@ -77,8 +77,8 @@ I work for a Russian IT company, I develop containerization tools. I have been w
   <img src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" alt="OpenZeppelin" width="40" height="40"/> 
   </a>
   
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="pandas" width="40" height="40"/> 
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
   </a>
 
 </div>
