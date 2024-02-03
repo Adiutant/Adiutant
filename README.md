@@ -175,7 +175,7 @@ I work for a Russian IT company, I develop containerization tools. I have been w
   
   
   <a href="https://t.me/adiuitant" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@sudo_udo-33A8E3?&style=plastic&logo=telegram&logoColor=white" alt="https://t.me/adiuitant" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Telegram-@adiutant-33A8E3?&style=plastic&logo=telegram&logoColor=white" alt="https://t.me/adiuitant" style="margin-bottom: 5px;" />
   </a>
   
 </div>
