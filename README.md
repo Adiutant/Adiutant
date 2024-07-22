@@ -4,8 +4,8 @@ I work for a Russian IT company, I develop containerization tools. I have been w
 
 
 
-- 🌱 I’m currently learning  `Advanced C++` , `C` , `Golang` , `Solidity` , `Kotlin`
-- 👯 I’m looking to collaborate on projects about `mobile dev`, `embeeded` or `IoT`
+- 🌱 I’m currently learning  `Advanced C++` , `C` , `Golang` 
+- 👯 I’m looking to collaborate on projects about `system development`, `ML` or `IoT`
 - 🤔 I’m currently using `Advanced C++` , `C`
 - 💬 Ask me about `Linux` or `Measuring equipment software`
 - 📫 How to reach me: https://t.me/adiuitant
